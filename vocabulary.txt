@@ -1,0 +1,7 @@
+hello
+yes
+no
+ok
+love
+help
+thanks
